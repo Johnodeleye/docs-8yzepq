@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-69zj9i.saturadar88.shop/sitemap.xml
